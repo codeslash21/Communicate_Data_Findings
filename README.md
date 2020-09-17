@@ -51,11 +51,11 @@ We create some new column for ease of exploration and remove the columns those w
     - Though average trip duration in Summer is more.
    
   - **Rides trends over week:**
-   - During weekends we see less number of rides.
-   - On Tuesday we see highest number of rides.
-   - Average trip duration of customers is always grater than that of subscribers over the week.
+    - During weekends we see less number of rides.
+    - On Tuesday we see highest number of rides.
+    - Average trip duration of customers is always grater than that of subscribers over the week.
    
   - **Rides trends over hours:**
-   - We have two rush hours 8A.M. and 5P.M.
+    - We have two rush hours 8A.M. and 5P.M.
 
 </br>
