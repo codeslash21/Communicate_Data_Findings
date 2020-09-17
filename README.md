@@ -13,7 +13,7 @@
 
 <div style="font-size:18px">
 
-Here we take trip records of the Year 2019. Our target is to explore the trends and find some interesting facts about the dataset. Primarily this dataset records 2.5M indivisual trips and every trip has 15 features. We can divide these features into three groups -
+Here we take trip records of the Year 2019. Our target is to explore the trends and find some interesting facts about the dataset. Primarily this dataset records 2.5M individual trips and every trip has 15 features. We can divide these features into three groups -
 - bike_id, user_type, bike_share_for_all_trip [User related data]
 - start_station_id, start_station_name, start_station_latitude, start_station_longitude, end_station_id, end_station_name, end_station_latitude, end_station_longitude [Stations related information]
 - rental_access_method, start_time, duration_sec, end_time [trip related data]
@@ -43,14 +43,12 @@ We create some new column for ease of exploration and remove the columns those w
   For presentation I focused on first distribution of rides over the month, season, week and hour. This is important to see the trends for improving business policies. Then I focused on different behaviours of different user types with these variables to get nice visualization of important factors.
   
   - **Rides trends over the year:** 
-  
-   - There is no particular trends that rides follows. Though in Winter we see less rides and in 'July' we see highest number of rides.
-   - For cutomers there is an upward trends from 'May' to 'December', so we can say that this rides services being popular among the customers.
+    - There is no particular trends that rides follows. Though in Winter we see less rides and in 'July' we see highest number of rides.
+    - For cutomers there is an upward trends from 'May' to 'December', so we can say that this rides services being popular among the customers.
    
   - **Rides trends over season:**
- 
-   - We see higher number of rides in Spring and less rides in Winter, means Spring is more comfortable for riders to ride.
-   - Though average trip duration in Summer is more.
+    - We see higher number of rides in Spring and less rides in Winter, means Spring is more comfortable for riders to ride.
+    - Though average trip duration in Summer is more.
    
   - **Rides trends over week:**
    - During weekends we see less number of rides.
